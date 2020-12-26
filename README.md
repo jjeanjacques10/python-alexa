@@ -1,5 +1,7 @@
 # Python Alexa 
 
+Alexa clone made using python
+
 ## Requirements
 
 Install this packages
